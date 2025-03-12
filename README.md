@@ -1,4 +1,7 @@
 # mi-primer-repositorio
+
+Luis Felipe Molina Correa
+
 Aprendí que Git es un sistema de control de versiones distribuido que permite gestionar cambios en el código, trabajar en equipo sin sobrescribir modificaciones y usar ramas para desarrollo seguro.
 
 Diferencias con otros sistemas: Git es más rápido, funciona sin conexión y garantiza la integridad del código mediante instantáneas y hashing.
